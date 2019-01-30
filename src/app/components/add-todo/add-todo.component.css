@@ -1,0 +1,16 @@
+.add-todo {
+    text-align: center;
+    padding: 20px;
+    border:1px solid #ccc;
+    border-radius:10px;
+    max-width: 768px;
+    margin:0 auto;
+}
+
+.todo-priority {
+    margin-top:20px;
+}
+.todo-priority label, .todo-priority input {
+    margin-right:5px;
+}
+
